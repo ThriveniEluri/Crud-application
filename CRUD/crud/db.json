@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Rekha",
+      "email": "rekha@yopmail.com",
+      "contact": "24553435",
+      "address": "Test Address",
+      "id": 2
+    },
+    {
+      "name": "Yadhav ",
+      "email": "Yadhav@yopmail.com",
+      "contact": "564646768",
+      "address": "test",
+      "id": 3
+    },
+    {
+      "name": "Rina ",
+      "email": "Rina@yopmail.com",
+      "contact": "52464",
+      "address": "Test",
+      "id": 4
+    },
+    {
+      "name": "Riya",
+      "email": "Riya@yopmail.com",
+      "contact": "65646465",
+      "address": "Test",
+      "id": 5
+    },
+    {
+      "name": "Thriveni Eluri",
+      "email": "thriveni@yopmail.com",
+      "contact": "53426532",
+      "address": "India",
+      "id": 6
+    }
+  ]
+}
